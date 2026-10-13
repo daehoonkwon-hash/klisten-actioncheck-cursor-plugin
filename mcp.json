@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "actioncheck": {
+      "url": "https://api.klisten.co.kr/mcp/actioncheck",
+      "headers": {
+        "Authorization": "Bearer ${KLISTEN_API_KEY}"
+      }
+    }
+  }
+}
